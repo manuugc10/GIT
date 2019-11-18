@@ -5,5 +5,6 @@ package git;
 			
 			public static void saludar() {
 				system.out.println("Hola a todos")
+				system.out.println("Como estais?")
 		}
 	}
