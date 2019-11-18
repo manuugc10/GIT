@@ -1,7 +1,9 @@
 package git;
 	
-	public class Main {
-		public static void main (String[] args)
-		Manu obj=new Manu();
-		obj.saludar();
+	public class Manu {
+		public Manu() {
+			
+			public static void saludar() {
+				system.out.println("Hola a todos")
+		}
 	}
